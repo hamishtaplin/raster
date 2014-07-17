@@ -1,3 +1,12 @@
+Raster is a responsive grid framework written in Sass. Raster is:
+
+- mobile-first responsive
+- em-based
+- declarative style
+- ratio-based
+- inline-block based
+- compatible with all browsers, including IE7 (IE7 support provided by Javascript)
+
 Raster grid is written in a 'declarative' style meaning that column breakpoints are declared in the markup. There are six main breakpoints, written in 't-shirt size' notation:
 
 ## Breakpoints
